@@ -1,3 +1,10 @@
+/**
+ * @author Dalphs
+ * @version 1.0
+ *
+ *
+ */
+
 public class Location {
     public int row;
     public int column;
